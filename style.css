@@ -1,0 +1,91 @@
+a {
+  color: #242424; /* Remplace "blue" par la couleur de ton choix */
+  font-size: 1em;
+  font-family: manrope;
+    text-decoration: none;
+
+}
+a:hover {
+  color: #A5B4FC; /* Couleur au survol */
+  text-decoration: underline; /* Soulignement au survol */
+}
+
+.ma{
+  color:#A5B4FC;
+}
+
+.m {
+  color: #A5B4FC;
+}
+h1 {
+  color: #A5B4FC;
+    font-size: 3.5em;
+    font-family: Montserrat; 
+}
+h2 {
+  color: #F9F8FF;
+   
+}
+em {
+  color: #a5b4fc;
+  font-style: normal;
+}
+p {
+    font-size: 1.1em;
+    font-family: Manrope;
+    color: #F9F8FF;
+}
+ul {
+  font-size: 1em;
+  font-family: Manrope;
+  color: #F9F8FF;
+}
+body {
+  background-color: #1F2039;
+
+ 
+}   
+.header {
+ background-color: #ffffff;
+ padding-left: 50px;
+ padding-right: 50px;
+padding-top: 20px;
+  padding-bottom: 20px;
+ 
+}
+
+.footer {
+ 
+ background-color: #ffffff;
+ padding-left: 50px;
+ padding-right: 50px;
+padding-top: 20px;
+  padding-bottom: 20px;
+ 
+}
+
+
+
+.cta {
+  background: linear-gradient(#696484, #8788BA);
+  color: white;
+  border-radius: 50px ; 
+}
+
+.cta:hover {
+  background: linear-gradient(#A5B4FC, #8788BA);
+  color: white;
+  border-radius: 50px ; 
+}
+.pp {
+ border-right : 1px solid #8e86b5 ; 
+ border-bottom : 1px solid #8e86b5 ;
+
+}
+.lien-icone:hover {
+  opacity: 0.5;
+}
+
+* {
+    margin: 0;
+}
